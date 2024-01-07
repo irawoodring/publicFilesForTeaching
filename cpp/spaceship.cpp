@@ -4,7 +4,7 @@
 Spaceship::Spaceship(){
   name = "No name";
   hp = 500;
-  shield = 100.0f
+  shield = 100.0f;
 }
 
 Spaceship::Spaceship(std::string name, int hp, float shield){
